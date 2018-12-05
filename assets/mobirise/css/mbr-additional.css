@@ -2,9 +2,6 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
 
 
-
-
-
 #msg-box3-g .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -19,32 +16,42 @@
 #msg-box3-g .mbr-section-title {
   font-family: 'Playfair Display', sans-serif;
 }
-#msg-box3-u .mbr-header .mbr-header__text {
+#menu-x .navbar-toggler {
+  color: #000;
+}
+#msg-box3-b .mbr-header .mbr-header__text {
   text-align: center;
 }
-#msg-box3-u .mbr-header .mbr-header__subtext {
+#msg-box3-b .mbr-header .mbr-header__subtext {
   text-align: center;
 }
-#msg-box3-u .lead P {
-  font-family: 'PT Serif', serif;
+#msg-box3-b .mbr-section-title {
+  font-size: 60px;
+}
+#menu-x .navbar-toggler {
+  color: #000;
+}
+
+
+
+#msg-box3-3 .mbr-header .mbr-header__text {
   text-align: center;
 }
-#msg-box3-u .mbr-section-title {
+#msg-box3-3 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
-#social-buttons2-v .mbr-section-title {
-  text-align: right;
-  color: #000000;
-  font-size: 36px;
+#msg-box3-3 .lead {
+  font-family: 'Playfair Display', sans-serif;
 }
 #contacts3-w P {
   color: #000000;
-  font-family: 'PT Serif', serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 15px;
   text-align: center;
 }
 #contacts3-w STRONG {
-  font-family: 'PT Serif', serif;
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 18px;
 }
 #menu-x .navbar-toggler {
   color: #000;
