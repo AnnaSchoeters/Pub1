@@ -30,8 +30,7 @@
       "additionalSetColors": [
         "#000000",
         "#def5fa",
-        "#d1bcc1",
-        "#ffbe5f"
+        "#d1bcc1"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -57,7 +56,11 @@
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": "true"
+    "noImageResize": "true",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
